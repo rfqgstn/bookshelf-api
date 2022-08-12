@@ -11,6 +11,23 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "no-console": "off"
+        "no-console": "off",
+        "linebreak-style": "off",
+        "no-mixed-spaces-and-tabs": "off",
+        "eol-last": "off",
+        "indent": "off",
+        "no-tabs": "off",
+        "object-curly-newline": "off",
+        "quotes": "off",
+        "comma-dangle": "off",
+        "no-extra-semi": "off",
+        "max-len": "off",
+        "no-trailing-spaces": "off",
+        "semi": "off",
+        "padded-blocks": "off",
+        "no-multiple-empty-lines": "off",
+        "eqeqeq": "off",
+        "keyword-spacing": "off",
+        "object-curly-spacing": "off"
     }
 }
